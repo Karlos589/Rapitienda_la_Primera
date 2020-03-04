@@ -1,0 +1,4 @@
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\BussinesLayer\bin\Debug\BussinesLayer.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\BussinesLayer\bin\Debug\BussinesLayer.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\BussinesLayer\obj\Debug\BussinesLayer.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\BussinesLayer\obj\Debug\BussinesLayer.pdb

@@ -62,5 +62,10 @@ namespace DataLayer
 
             }
         }
+
+        public static List<ClientesEntity> ObtenerClientes()
+        {
+
+        }
     }
 }

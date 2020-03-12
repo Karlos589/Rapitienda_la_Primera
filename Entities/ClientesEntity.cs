@@ -21,4 +21,6 @@ namespace Entities
         public DateTime FechaNacimiento { get; set; }
        
     }
+
+
 }

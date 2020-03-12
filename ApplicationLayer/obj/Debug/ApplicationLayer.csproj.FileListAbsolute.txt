@@ -7,3 +7,19 @@ C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\Applic
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.GenerateResource.Cache
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\ApplicationLayer\obj\Debug\ApplicationLayer.exe
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\bin\Debug\ApplicationLayer.exe.config
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\obj\Debug\ApplicationLayer.exe
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\bin\Debug\ApplicationLayer.exe
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\obj\Debug\ApplicationLayer.frmClientes.resources
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\obj\Debug\ApplicationLayer.Properties.Resources.resources
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.GenerateResource.Cache
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\bin\Debug\BussinesLayer.dll
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\bin\Debug\Entities.dll
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\bin\Debug\DataLayer.dll
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\bin\Debug\MySql.Data.dll
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\bin\Debug\BussinesLayer.pdb
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\bin\Debug\Entities.pdb
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\ApplicationLayer\bin\Debug\DataLayer.pdb

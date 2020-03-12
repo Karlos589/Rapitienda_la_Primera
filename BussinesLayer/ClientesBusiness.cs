@@ -3,15 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Entities;
 using DataLayer;
 
 namespace BussinesLayer
 {
-    public class Class1
+    public class ClientesBusiness
     {
-        public static bool ProbarConexion()
+        
+        public static bool GuardarCliente(ClientesEntity cliente)
         {
-            return Class1.ProbarConexion();
+            return ClientesData.GuardarCliente(cliente);
         }
     }
 }

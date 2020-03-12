@@ -8,6 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using Entities;
+using BussinesLayer;
+
 namespace ApplicationLayer
 {
     public partial class frmClientes : Form
@@ -23,15 +26,47 @@ namespace ApplicationLayer
             CargarFechas();
         }
 
-        public void GuardarEDB()
-        { 
-        
+        public void GuardarEnDB()
+        {
+            ClientesEntity cliente = new ClientesEntity();
+            cliente.TipoDocumento = CmbTipoDocumento.Text;
+            cliente.Documento = txtNumeroDocumento.Text;
+            cliente.PrimerNombre = txtPrimerNombre.Text;
+            cliente.SegundoNombre = txtSegundoNombre.Text;
+            cliente.PrimerApellido= txtPrimerApellido.Text;
+            cliente.SegundoApellido = txtSegundoApellido.Text;
+            cliente.Direccion = txtDireccion.Text;
+            cliente.email = txtCorreoElectronico.Text;
+            cliente.Telefono = txtTelefono.Text;
+            cliente.FechaNacimiento = Convert.ToDateTime(cmbAnio.Text + "/" + cmbMes.Text + "/" + cmbDia.Text);
+
+            if (ClientesBusiness.GuardarCliente(cliente))
+            {
+                MessageBox.Show("Usuario guardado con exito");
+            }
         }
 
         private void btnSave_Click(object sender, EventArgs e)
         {
             ValidarFormulario();
             ValidarFechas();
+            if (ValidarFormulario() && ValidarFechas())
+            {
+                GuardarEnDB();
+                LimpiarFormulario();
+            }
+        }
+        private void LimpiarFormulario()
+        {
+            txtNumeroDocumento.Text = "";
+            txtPrimerNombre.Text = "";
+            txtSegundoNombre.Text = "";
+            txtPrimerApellido.Text = "";
+            txtSegundoApellido.Text = "";
+            txtDireccion.Text = "";
+            txtTelefono.Text = "";
+            txtCorreoElectronico.Text = "";
+
         }
         private bool ValidarFormulario() 
         { 
@@ -174,6 +209,11 @@ namespace ApplicationLayer
             }
 
             return true;
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
 
         }
 

@@ -3,3 +3,11 @@ C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\DataLa
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\DataLayer\obj\Debug\DataLayer.dll
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\DataLayer\obj\Debug\DataLayer.pdb
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\DataLayer\bin\Debug\MySql.Data.dll
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\DataLayer\bin\Debug\Entities.dll
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\DataLayer\bin\Debug\Entities.pdb

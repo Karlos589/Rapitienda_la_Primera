@@ -9,15 +9,16 @@ namespace Entities
     public class ClientesEntity
     {
         public int idCliente { get; set; }
-        public String Cedula { get; set; }
-        public String PrimerNombre { get; set; }
-        public String SegundoNombre { get; set; }
-        public String PrimerApellido { get; set; }
-        public String SegundoApellido { get; set; }
+        public string TipoDocumento { get; set; }
+        public string Documento { get; set; }
+        public string PrimerNombre { get; set; }
+        public string SegundoNombre { get; set; }
+        public string PrimerApellido { get; set; }
+        public string SegundoApellido { get; set; }
+        public string Direccion { get; set; }
+        public string email { get; set; }
+        public string Telefono { get; set; }
         public DateTime FechaNacimiento { get; set; }
-        public String Direccion { get; set; }
-        public String Telefono { get; set; }
-        public String CorreoElectronico { get; set; }
        
     }
 }

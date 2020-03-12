@@ -3,3 +3,8 @@ C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\Entiti
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\Entities\obj\Debug\Entities.dll
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Rapitienda_la_Primera\Entities\obj\Debug\Entities.pdb
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\Entities\bin\Debug\Entities.dll
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\Entities\bin\Debug\Entities.pdb
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\Entities\obj\Debug\Entities.dll
+C:\Users\ADSI\Documents\Rapitienda_la_Primera\Entities\obj\Debug\Entities.pdb
